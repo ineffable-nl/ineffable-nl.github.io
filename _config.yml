@@ -1,0 +1,11 @@
+# Site settings
+title: ineffable.nl
+email: niels@ineffable.nl
+description: >
+  ineffable stuff
+baseurl: ""
+url: "http://ineffable-nl.github.io"
+github_username:  ineffable-nl
+
+# Build settings
+markdown: kramdown
